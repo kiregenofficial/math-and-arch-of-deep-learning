@@ -8,4 +8,6 @@ Book: [The Mathematics and Architecture of Deep Learning](https://www.oreilly.co
 Started: 24.03.2026
 
 
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)  
+
+Dependencies: PyTorch ("torch" library)
